@@ -1,0 +1,15 @@
+{
+  "name": "LW quizz filter",
+  "version": "1.0",
+  "description": "a table filter for the day quizz session",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}
