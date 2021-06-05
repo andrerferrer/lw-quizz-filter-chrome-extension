@@ -4,7 +4,8 @@
 2. Add it to [chrome extensions](chrome://extensions)
 3. Go to your day_dashboard
 4. Click on the extension
-5. Filter the tables
+5. go to the quiz page https://kitt.lewagon.com/quiz_sessions/:batch_number
+6. Filter the tables
 
 Remember to smile 🤓✌
 
